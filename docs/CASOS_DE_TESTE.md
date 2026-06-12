@@ -17,3 +17,4 @@
 | CT13 | Alterar estado da reserva | Válido | `setEstado(new ReservaConfirmada())` | O estado atual deve ser `ReservaConfirmada`. |
 | CT14 | Notificar observer usando stub | Válido | Adicionar `ObserverStub` e chamar `notificar(...)` | O stub deve receber a mensagem enviada. |
 | CT15 | Notificar dois observers usando mock | Válido/extra | Dois mocks de `NotificacaoObserver` | Ambos devem receber a mensagem exatamente uma vez. |
+Observação: revisão final dos casos de teste realizada para validar cenários válidos, alternativos e de exceção.
