@@ -46,3 +46,15 @@ src/main/java/com/mycompany/estacionamento  -> código do protótipo
 src/test/java/com/mycompany/estacionamento  -> testes unitários JUnit
 docs                                      -> documentação complementar
 ```
+
+## Organização Java e Documentação
+
+A estrutura Java do projeto foi organizada utilizando Maven.
+
+Os arquivos principais do sistema estão localizados em:
+
+- src/main/java: contém as classes principais do projeto
+- pom.xml: responsável pela configuração do Maven
+- docs/javadoc: documentação gerada das classes Java
+
+As classes possuem documentação JavaDoc para facilitar o entendimento e manutenção do código.
