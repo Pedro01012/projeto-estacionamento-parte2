@@ -3,11 +3,13 @@ package com.mycompany.estacionamento;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
 /**
- * Classe central do sistema de reservas.
+ * Classe responsável por representar uma reserva de vaga.
  *
- * <p>Ela atua como contexto do padrão State e como sujeito do padrão Observer.</p>
+ * Controla informações relacionadas ao processo de reserva
+ * dentro do sistema de estacionamento.
+ *
+ * @author Maria Eduarda Wang
  */
 public class Reserva {
 

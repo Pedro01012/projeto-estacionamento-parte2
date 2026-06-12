@@ -3,8 +3,13 @@ package com.mycompany.estacionamento;
 /**
  * Classe principal do protótipo do sistema de estacionamento.
  *
- * <p>O projeto é uma evolução da Parte 1 e foca em arquitetura,
- * padrões de projeto, testes automatizados e documentação técnica.</p>
+ * Responsável pelo ponto inicial da aplicação e pela execução
+ * das funcionalidades principais do sistema.
+ *
+ * O projeto utiliza conceitos de orientação a objetos,
+ * padrões de projeto GoF e documentação JavaDoc.
+ *
+ * @author Maria Eduarda Wang
  */
 public class Estacionamento {
 

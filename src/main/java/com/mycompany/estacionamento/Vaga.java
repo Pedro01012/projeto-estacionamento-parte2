@@ -1,8 +1,11 @@
 package com.mycompany.estacionamento;
 
 /**
- * Interface produto utilizada pelo padrão Factory Method.
- * Representa uma vaga genérica do estacionamento.
+ * Classe responsável por representar uma vaga do estacionamento.
+ *
+ * Define informações e características das vagas disponíveis.
+ *
+ * @author Maria Eduarda Wang
  */
 public interface Vaga {
 
